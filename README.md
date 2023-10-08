@@ -5,7 +5,7 @@
 
 docker-compose up -d
 
-# BludsFast
+# NASA API
 
 python3.9 -m venv venv
 
