@@ -1,0 +1,5 @@
+/fastapi_app.db
+/scripts
+/.env
+/venv
+__pycache__
